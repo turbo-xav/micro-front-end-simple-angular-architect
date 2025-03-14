@@ -1,3 +1,4 @@
+A regarder : https://joemoceri.medium.com/using-module-federation-to-work-with-angular-react-and-vue-as-hosts-and-remotes-a1d111681cfe
 # AngularModuleFederation
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.7.
